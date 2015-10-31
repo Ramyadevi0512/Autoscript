@@ -1,4 +1,4 @@
 language: java
-before_install: ant init-ivy
+before_install: ant init
 install: ant resolve
 required: sudo
