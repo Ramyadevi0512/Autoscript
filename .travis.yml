@@ -1,3 +1,6 @@
 language: java
 sudo: required
+travis setup cloudfoundry
+deploy
+edge: true
 
